@@ -1,0 +1,7 @@
+{
+  "name": "BOOKSELF+",
+  "description": "Where every learner becomes a living book. An educational platform for tracking knowledge, managing learning debt, and building lifelong understanding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
